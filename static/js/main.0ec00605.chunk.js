@@ -1,0 +1,2 @@
+(this.webpackJsonpoauth2=this.webpackJsonpoauth2||[]).push([[0],{3:function(t,e,n){t.exports=n(8)},8:function(t,e,n){"use strict";n.r(e);var u=n(0),o=n.n(u),r=n(2),a=function(){return o.a.createElement("h1",null,"OAuth2")};n.n(r).a.render(o.a.createElement(a,null),document.getElementById("root"))}},[[3,1,2]]]);
+//# sourceMappingURL=main.0ec00605.chunk.js.map
