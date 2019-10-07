@@ -1,6 +1,6 @@
 {
 	"name": "oauth2",
-	"homepage": "https://mahume.github.io/oauth2/",
+	"homepage": "https://mahume.github.io/oauth2",
 	"version": "0.1.0",
 	"private": true,
 	"dependencies": {
